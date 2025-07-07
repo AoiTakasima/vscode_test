@@ -1,2 +1,2 @@
 const number = 0;
-const word = 'H'
+const word = 'Hello world!'
